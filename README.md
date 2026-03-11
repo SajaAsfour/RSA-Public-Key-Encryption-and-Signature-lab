@@ -235,9 +235,6 @@ RSA-Signature-and-Certificate-Verification
 │
 ├── task4_sign.c          # RSA message signing program
 ├── task6_verify.c        # Certificate signature verification
-├── c0.pem                # Server certificate
-├── c1.pem                # Intermediate CA certificate
-├── c0_body.bin           # Extracted certificate body
 ├── signature.txt         # Extracted certificate signature
 └── README.md
 ```
